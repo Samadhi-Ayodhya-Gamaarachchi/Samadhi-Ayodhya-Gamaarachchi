@@ -1,14 +1,9 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1350&q=80" alt="Banner" width="100%" />
-</p>
 
 <h1 align="center">Hey there, I'm <span style="color:#ff9800;">Samadhi</span> 👋</h1>
 <h3 align="center">Web Developer | Dreamer | Lifelong Learner</h3>
 
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Samadhi-Ayodhya-Gamaarachchi"><img src="https://img.shields.io/github/followers/Samadhi-Ayodhya-Gamaarachchi?label=Follow&style=flat-square" /></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/twitter/follow/yourtwitter?style=flat-square&logo=twitter" /></a>
   <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=about.me&logoColor=white" /></a>
 </p>
 
@@ -21,11 +16,10 @@
 ---
 
 🌄 **About Me**  
-- 📚 I'm a passionate developer on a journey to transform ideas into reality through code.
-- 🤝 Currently collaborating on open source and cool side projects.
-- 🌱 Learning more about **React, Node.js, and UI/UX design**.
-- ✨ I believe in the magic of curiosity, creativity, and community.
-
+🎓 I’m a 3rd year student pursuing BSC(Hons) Information Technology from University Of Moratuwa.  
+💡 I love exploring new technologies and leveraging them to solve real-life problems.  
+🌱 Currently focusing on Web Development and improving my Data Structures and Algorithms skills.  
+👨‍💻 Always willing to learn and work across technologies and domains.
 ---
 
 ## 🛠️ My Toolbox
@@ -39,7 +33,6 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" />
 </p>
 
@@ -60,22 +53,12 @@
 
 ---
 
-## 🎨 Fun Facts
-
-- 🦄 My favorite code editor theme is [TokyoNight](https://github.com/enkia/tokyo-night-vscode-theme).
-- 🎬 I love animated movies and creative storytelling.
-- 🌏 Exploring the world one line of code at a time.
-
----
-
 ## 📬 Let's Connect!
 
 - 💌 [Email](mailto:your.email@example.com)
 - 🌐 [Portfolio](https://your-portfolio-link)
-- 🐦 [Twitter](https://twitter.com/yourtwitter)
 - 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7971E&height=100&section=footer"/>
