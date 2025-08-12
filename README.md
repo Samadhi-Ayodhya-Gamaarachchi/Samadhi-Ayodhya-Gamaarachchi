@@ -44,12 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Samadhi-Ayodhya-Gamaarachchi&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samadhi-Ayodhya-Gamaarachchi&layout=compact&theme=tokyonight" height="170"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samadhi-Ayodhya-Gamaarachchi&theme=tokyonight" height="150"/>
-</p>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Samadhi-Ayodhya-Gamaarachchi&theme=react-dark" height="150"/>
-</p>
+
 
 ---
 
@@ -60,6 +55,3 @@
 - 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7971E&height=100&section=footer"/>
-</p>
