@@ -3,8 +3,8 @@
 <h3 align="center">Web Developer | Dreamer | Lifelong Learner</h3>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=about.me&logoColor=white" /></a>
+  <a href="mailto:samadhigamaarachchi07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://my-portfolio-2-chi-nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=about.me&logoColor=white" /></a>
 </p>
 
 ---
