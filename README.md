@@ -46,12 +46,5 @@
 </p>
 
 
----
-
-## 📬 Let's Connect!
-
-- 💌 [Email](mailto:your.email@example.com)
-- 🌐 [Portfolio](https://your-portfolio-link)
-- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)
 
 
