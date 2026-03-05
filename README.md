@@ -41,8 +41,8 @@
 ## 🚀 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samadhi-Ayodhya-Gamaarachchi&show_icons=true&theme=tokyonight&cache_seconds=86400" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samadhi-Ayodhya-Gamaarachchi&layout=compact&theme=tokyonight&cache_seconds=86400" height="170"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Samadhi-Ayodhya-Gamaarachchi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samadhi-Ayodhya-Gamaarachchi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 >
 
