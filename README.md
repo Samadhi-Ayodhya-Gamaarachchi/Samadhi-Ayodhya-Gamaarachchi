@@ -41,8 +41,13 @@
 ## 🚀 GitHub Stats & Activity
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Samadhi-Ayodhya-Gamaarachchi&show_icons=true&theme=tokyonight&hide_border=true"/>
-   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Samadhi-Ayodhya-Gamaarachchi&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Samadhi-Ayodhya-Gamaarachchi&show_icons=true&theme=tokyonight&hide_border=true"/>
+   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Samadhi-Ayodhya-Gamaarachchi&layout=compact&theme=tokyonight&hide_border=true"/> -->
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samadhi-Ayodhya-Gamaarachchi&layout=compact&theme=tokyonight&locale=en" alt="Samadhi-Ayodhya-Gamaarachchi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Samadhi-Ayodhya-Gamaarachchi&show_icons=true&theme=tokyonight&locale=en" alt="Samadhi-Ayodhya-Gamaarachchi" /></p>
+
+
 </p>
 >
 
